@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74287" started-at="2019-03-05T07:53:52Z" finished-at="2019-03-05T07:55:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74287" started-at="2019-03-05T07:53:52Z" finished-at="2019-03-05T07:55:06Z">
+      <class name="com.testcase.xztkTestcase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcase.xztkTestcase@6956de9]" name="setUp" is-config="true" duration-ms="4223" started-at="2019-03-05T15:54:16Z" finished-at="2019-03-05T15:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.testcase.xztkTestcase@6956de9]" name="test" duration-ms="21175" started-at="2019-03-05T15:54:20Z" finished-at="2019-03-05T15:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcase.xztkTestcase@6956de9]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-03-05T15:54:41Z" finished-at="2019-03-05T15:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcase.xztkTestcase -->
+      <class name="com.testcase.logintestcase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcase.logintestcase@18ef96]" name="setUp" is-config="true" duration-ms="3865" started-at="2019-03-05T15:53:52Z" finished-at="2019-03-05T15:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testcase.logintestcase@18ef96]" name="login" duration-ms="20338" started-at="2019-03-05T15:53:55Z" finished-at="2019-03-05T15:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcase.logintestcase@18ef96]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-03-05T15:54:16Z" finished-at="2019-03-05T15:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcase.logintestcase -->
+      <class name="kaoshi.login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:kaoshi.login@769c9116]" name="setUp" is-config="true" duration-ms="1205" started-at="2019-03-05T15:54:41Z" finished-at="2019-03-05T15:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="open()[pri:0, instance:kaoshi.login@769c9116]" name="open" duration-ms="23423" started-at="2019-03-05T15:54:42Z" finished-at="2019-03-05T15:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:kaoshi.login@769c9116]" name="tearDown" is-config="true" duration-ms="46" started-at="2019-03-05T15:55:06Z" finished-at="2019-03-05T15:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- kaoshi.login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
